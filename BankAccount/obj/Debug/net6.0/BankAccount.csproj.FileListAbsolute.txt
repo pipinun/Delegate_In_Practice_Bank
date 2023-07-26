@@ -1,0 +1,12 @@
+/home/sarvar/Projects/Delegate_in_Practice/ConsoleApp1/BankAccount/bin/Debug/net6.0/BankAccount.deps.json
+/home/sarvar/Projects/Delegate_in_Practice/ConsoleApp1/BankAccount/bin/Debug/net6.0/BankAccount.dll
+/home/sarvar/Projects/Delegate_in_Practice/ConsoleApp1/BankAccount/bin/Debug/net6.0/ref/BankAccount.dll
+/home/sarvar/Projects/Delegate_in_Practice/ConsoleApp1/BankAccount/bin/Debug/net6.0/BankAccount.pdb
+/home/sarvar/Projects/Delegate_in_Practice/ConsoleApp1/BankAccount/obj/Debug/net6.0/BankAccount.csproj.AssemblyReference.cache
+/home/sarvar/Projects/Delegate_in_Practice/ConsoleApp1/BankAccount/obj/Debug/net6.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/home/sarvar/Projects/Delegate_in_Practice/ConsoleApp1/BankAccount/obj/Debug/net6.0/BankAccount.AssemblyInfoInputs.cache
+/home/sarvar/Projects/Delegate_in_Practice/ConsoleApp1/BankAccount/obj/Debug/net6.0/BankAccount.AssemblyInfo.cs
+/home/sarvar/Projects/Delegate_in_Practice/ConsoleApp1/BankAccount/obj/Debug/net6.0/BankAccount.csproj.CoreCompileInputs.cache
+/home/sarvar/Projects/Delegate_in_Practice/ConsoleApp1/BankAccount/obj/Debug/net6.0/BankAccount.dll
+/home/sarvar/Projects/Delegate_in_Practice/ConsoleApp1/BankAccount/obj/Debug/net6.0/ref/BankAccount.dll
+/home/sarvar/Projects/Delegate_in_Practice/ConsoleApp1/BankAccount/obj/Debug/net6.0/BankAccount.pdb
